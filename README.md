@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá, colega👋! Me chamo Kevin Oliveira; 🥷<br>Estudante de Eng. de Software 💻;<br>Brasília-DF 🏠;</h2>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KzOliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KzOliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KzOliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KzOliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="left" height="180" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<img align="left" height="180" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
@@ -37,6 +37,14 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/KzOliveira/KzOliveira/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
