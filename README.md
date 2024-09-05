@@ -1,4 +1,4 @@
-<h2 align="left">Olá, colega👋! Me chamo Kevin Oliveira; Brasília-DF 🏠;</h2>
+<h2 align="left">Olá, colega👋! Me chamo Kevin Oliveira;</h2>
 
 ###
 
